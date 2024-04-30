@@ -3,6 +3,22 @@ I have designed a few simple web pages and mobile application pages with the hel
 
 _____________________________________________________________________________
 
+link - https://www.figma.com/file/Dew42bGutiBxUzpZvEG9hz/UXopedia_perfect-unit?type=design&node-id=0%3A1&mode=design&t=yX73x4XfLSAeNTBD-1
+
+
+![image](https://github.com/bosesupriyo/Figma-Design/assets/124809398/46f9d3a8-ec24-4e37-937d-c22f05280c3d)
+
+
+-------------------------------------------------------------------------------------------
+
+
+Link - https://www.figma.com/file/j7eIzBmfOoT6DoCl4Rn9Xe/sample-try?type=design&node-id=0%3A1&mode=design&t=yX73x4XfLSAeNTBD-1
+
+![image](https://github.com/bosesupriyo/Figma-Design/assets/124809398/35cb2cbe-29b9-4d8b-a99c-8d70ad4384df)
+
+
+-----------------------------------------------------------------------------------------------------------
+
 
 ![DESIGN](https://github.com/bosesupriyo/Figma-Design/assets/124809398/6102b1f6-333b-4d71-bff2-0708bc2d624c)
 
